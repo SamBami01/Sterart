@@ -1,10 +1,13 @@
-### Goodcravingz 
-Here are some ideas to get you started:
+PwC-Call-Centre-Analysis
+Visualising customer and agent behaviour.
 
-- 🔭 Project Domain Name ...Goodcrvaingz.com
-- 🌱 Using ... WordPress
-- 👯 Features ... Food ordering , Online payment (Cashapp)
-- 📫 How to reach me: ... Sambamidele48@gmail.com , Sterart.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Wait for it.....
--->
+Enjoyed working on this project because it gave ne insight on understanding how calls and call agent manage their time across various departments.
+
+This Powe BI dashboard reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+
+• Overall customer satisfaction • Overall calls answered/abandoned • Calls by time • Average speed of answer • Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+
+
+
+PwC Call Centre Analysis
