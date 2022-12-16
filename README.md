@@ -10,3 +10,9 @@ This WordPress Homepage shows;
 • Business Location
 • Brand Logo
 • Brand Tagline
+
+
+<br>
+<br>
+<br>
+<img width="1437" alt="Goodcravingz.com" src="https://github.com/SamSTER04/Sterart/blob/214be2de52682fc8a0c69788fb9aaa7e1759c6df/Homepage.png">
