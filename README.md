@@ -17,13 +17,27 @@ This WordPress Homepage shows;
 <br>
 <img width="1437" alt="Goodcravingz.com" src="https://github.com/SamSTER04/Sterart/blob/214be2de52682fc8a0c69788fb9aaa7e1759c6df/Homepage.png">
 
-<img width="1437" alt="Goodcravingz.com" src="https://github.com/SamSTER04/Sterart/blob/27112de9acbfac4e92f0c16cb8cdce7258e5bf31/Checkout.png">
+
+
+
+<img width="1437" alt="Goodcravingz.com" src="https://github.com/SamSTER04/Sterart/blob/1e137d8887902c13d840b91a23038465d3b5313f/Customer-Review.png">
+
+
 
 
 <img width="1437" alt="Goodcravingz.com" src="https://github.com/SamSTER04/Sterart/blob/27112de9acbfac4e92f0c16cb8cdce7258e5bf31/Menu.png">
 
+
+
+
 <img width="1437" alt="Goodcravingz.com" src="https://github.com/SamSTER04/Sterart/blob/27112de9acbfac4e92f0c16cb8cdce7258e5bf31/Menus.png">
 
+
+
+
 <img width="1437" alt="Goodcravingz.com" src="https://github.com/SamSTER04/Sterart/blob/27112de9acbfac4e92f0c16cb8cdce7258e5bf31/Cart.png">
+
+
+
 
 <img width="1437" alt="Goodcravingz.com" src="https://github.com/SamSTER04/Sterart/blob/27112de9acbfac4e92f0c16cb8cdce7258e5bf31/Checkout.png">
