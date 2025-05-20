@@ -2,7 +2,7 @@
 Creating a WordPress Food Ordering website.
 
 
-Enjoyed working on this project because it gave me insight on how to create Menus for order and enabling cashapp means of payment.
+Enjoyed working on this project because it gave me insight on how to create Menus for orders and enabling CashApp as a means of payment.
 
 This WordPress Homepage shows;
  
